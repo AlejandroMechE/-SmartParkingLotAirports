@@ -1,6 +1,4 @@
-/**
- * Tokens de Diseño: Minimalismo y Estilo Editorial inspirado en Sitios Web de Apple (apple.com) & Apple HIG
- */
+
 
 export const ApplePalette = {
   // Light Canvas (apple.com diurno)

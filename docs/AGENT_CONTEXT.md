@@ -1,12 +1,15 @@
-# AGENT CONTEXT: Estacionamiento Inteligente de Aeropuerto
+# AGENT CONTEXT: AeroPark · Estacionamiento Inteligente de Aeropuerto
 > **Documento de Contexto Rápido para Agentes de IA y Subagentes.**  
-> *Versión:* 2.0 · Octubre 2026 · *Enfoque:* 100% Cashless, Seguridad Criptográfica & Estilo Minimalista Apple (apple.com)  
+> *Versión:* 2.1 · Octubre 2026 · *Marca Oficial:* **AeroPark** (The Delta Apex)  
+> *Enfoque:* 100% Cashless, Seguridad Criptográfica & Estilo Minimalista Apple (`apple.com`)  
+> *Manual de Marca:* [BRAND_GUIDELINES.md](file:///docs/BRAND_GUIDELINES.md)  
 > *Repositorio GitHub Oficial:* https://github.com/AlejandroMechE/-SmartParkingLotAirports.git
 
 ---
 
-## 1. Misión y Propósito del Software
-Sistema de control de acceso vehicular, reservas y cobro 100% digital y sin efectivo (*cashless*) para estacionamientos de aeropuerto:
+## 1. Misión y Marca Oficial (AeroPark)
+- **Marca:** **AeroPark** (*The Delta Apex* - Emblema alar supersónico blanco puro `#FFFFFF` sobre fondo 100% transparente como overlay).
+- **Tagline:** *Seamless Airport Parking · Tap, Park, Fly*
 - **Cero Efectivo:** No existen cajeros físicos ni casetas de cobro con dinero en efectivo.
 - **Acceso Ágil LPR:** Detección vehicular por lazo inductivo y cámara IP en carril edge (Raspberry Pi), lectura de placa por OCR en $\le 500\text{ ms}$, apertura de pluma en $\le 3\text{ s}$.
 - **Cobro en Línea:** 

@@ -1,5 +1,6 @@
-# Estacionamiento Inteligente de Aeropuerto
-> **Ecosistema 100% Digital / Cashless con Control de Acceso LPR, Cobro en Línea y Estética Minimalista Apple (apple.com & HIG).**  
+# 🛫 AeroPark · Smart Airport Parking
+> **Ecosistema 100% Digital / Cashless con Control de Acceso LPR, Cobro en Línea y Estética Minimalista Apple (`apple.com` & Apple HIG).**  
+> *Identidad de Marca:* **The Delta Apex** · Blanco Puro `#FFFFFF` sobre fondo 100% transparente (Overlay Minimalista).  
 > **Repositorio Oficial:** [GitHub - AlejandroMechE/-SmartParkingLotAirports](https://github.com/AlejandroMechE/-SmartParkingLotAirports.git)
 
 ---
@@ -8,6 +9,7 @@
 
 Toda la documentación técnica y arquitectónica se encuentra centralizada en la carpeta **[`/docs`](file:///c:/Users/icrye/OneDrive/Desktop/Integrador/docs)**:
 
+- 🎨 **[`docs/BRAND_GUIDELINES.md`](file:///c:/Users/icrye/OneDrive/Desktop/Integrador/docs/BRAND_GUIDELINES.md):** **Manual de Marca Oficial AeroPark.** Logotipos vectoriales en SVG, overlays transparentes, tipografía SF Pro y matriz de medios por pantalla.
 - 📖 **[`docs/AGENT_CONTEXT.md`](file:///c:/Users/icrye/OneDrive/Desktop/Integrador/docs/AGENT_CONTEXT.md):** **Lectura obligatoria para IA.** Resumen ejecutivo de alta densidad con el stack, seguridad, diseño y reglas del sistema.
 - 📐 **[`docs/PLAN_DE_DESARROLLO.md`](file:///c:/Users/icrye/OneDrive/Desktop/Integrador/docs/PLAN_DE_DESARROLLO.md):** Arquitectura integral, registro de decisiones de arquitectura (ADRs), épicas, historias de usuario, hardware edge y métricas SLO.
 - 📱 **[`docs/DETALLE_PAGINAS_Y_FLUJOS.md`](file:///c:/Users/icrye/OneDrive/Desktop/Integrador/docs/DETALLE_PAGINAS_Y_FLUJOS.md):** Catálogo exhaustivo de las 74 pantallas (34 App Cliente y 40 Panel Admin), diagramas de secuencia de punta a punta y matriz de microinteracciones.
