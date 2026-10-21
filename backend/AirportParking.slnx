@@ -1,0 +1,16 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="src/Core/AirportParking.Application/AirportParking.Application.csproj" />
+    <Project Path="src/Core/AirportParking.Domain/AirportParking.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="src/Infrastructure/AirportParking.Infrastructure/AirportParking.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="src/Presentation/AirportParking.Api/AirportParking.Api.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/AirportParking.UnitTests/AirportParking.UnitTests.csproj" />
+  </Folder>
+</Solution>
